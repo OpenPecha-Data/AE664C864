@@ -1,0 +1,19 @@
+id: AE664C864
+title: Prayer to Kongtrul Yönten Gyatso
+type: translation
+pechas:
+- I477699BB
+- I30F97F81
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:38:43.676351
+  last_modified_at: 2023-01-04 12:38:43.676381
+  collections:
+  - Jamyang Loter Wangpo Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I477699BB/7EAA: '3455'
+  I30F97F81/7B91: '3455'
